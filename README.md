@@ -13,5 +13,5 @@ The goal of the project is to classify messages as *spam* or *ham* using text cl
 - NLP concepts
 
 ## 📄 Project Report
-You can find the complete project report [here](./SpamDetection_Report.pdf)
+You can find the complete project report [here](./Final%20NLP%20project.pdf)
 > This project was developed as part of my academic mini project. Open to feedback and suggestions!
